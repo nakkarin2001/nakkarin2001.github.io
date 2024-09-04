@@ -1,0 +1,44 @@
+<?php include('pages/pet_adoption_db/pet_adoption_db.php'); ?>
+
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Adoption Website</title>
+    <link rel="stylesheet" href="assets/css/message_icon.css"> 
+    <link rel="stylesheet" href="assets/css/navbar.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/hero_banner.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
+
+</head>
+<body>
+    
+
+<?php include('includes/navbar.php'); ?>
+
+<?php include('pages/hero_banner.php'); ?>
+
+<?php include('pages/dashboard.php'); ?>
+
+
+<?php include('pages/slide_images.php'); ?>
+
+<?php include('pages/home.php'); ?>
+
+
+
+<?php include('pages/Blog_Slider.php'); ?>
+
+<?php include('pages/message_icon.php'); ?>
+
+<?php include('includes/footer.php'); ?>
+
+    <script src="assets/js/message_icon.js"></script> 
+ 
+</body>
+</html>
